@@ -16,3 +16,9 @@ Nas próximas três outras páginas será demonstrado o turismo sobre o Douro vi
 as cidades mais marcantes como Pinhão, lamego e régua.
 Neste trabalho será também apresentado um formulário de comentários que será guardado 
 num ficheiro e uma página sobre todos os vinhos em disposição no Douro
+
+
+Todas as informações requerentes á pagina encontram-se na pagina
+https://github.com/DasilvaCatarina/-tiwm2308/wiki
+
+as imagens utilizadas foram tiradas do google 
